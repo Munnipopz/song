@@ -14,8 +14,11 @@
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org"
     },
-    "APP_HASH": {
+    "APP_ID": {
       "description": "Get this value from https://my.telegram.org"
+    },
+    "BOT_TOKEN": {
+      "description": "Telegram bot token"
     },
     "CLIENT_ID": {
       "description": "spotify client ID",
